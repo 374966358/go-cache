@@ -17,7 +17,7 @@ go-cache
 package main
 
 import (
-	"github.com/muesli/go-cache"
+	"github.com/374966358/go-cache"
 	"fmt"
 	"time"
 )
